@@ -1,0 +1,22 @@
+{
+  "name": "tuba0607",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Tuba",
+  "license": "ISC",
+  "dependencies": {
+    "simple-is": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tuba0607/tugba.git"
+  }
+}
